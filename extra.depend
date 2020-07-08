@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1571143465 source:g:\compilers\10.00\12 new\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1594216362 source:g:\compilers\10.00\lexical analyser\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
